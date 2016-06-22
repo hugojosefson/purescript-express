@@ -1,0 +1,10 @@
+{
+    "name": "purescript-express-example",
+    "dependencies": {
+        "express": "~4.13.0",
+        "body-parser": "~1.13.2"
+    },
+    "scripts": {
+        "start": "pulp run -m ToDoServer"
+    }
+}

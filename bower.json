@@ -1,0 +1,12 @@
+{
+  "name": "purescript-express-examples",
+  "homepage": "https://github.com/dancingrobot84/purescript-express/tree/master/examples",
+  "description": "Examples for purescript-express",
+  "dependencies": {
+    "purescript-console": "^1.0.0",
+    "purescript-node-fs": "^1.0.0",
+    "purescript-strings": "^1.0.0",
+    "purescript-refs": "^1.0.0",
+    "purescript-express": "master"
+  }
+}
